@@ -29,7 +29,7 @@ body {
   background-color: #fff;
   color: hsl(229, 23%, 23%);
   width: 350px;
-  height: 360px;
+  height: 370px;
   border-radius: 15px;
   overflow: hidden;
   display: flex;
@@ -71,7 +71,7 @@ p {
   justify-content: space-between;
   width: 100%;
   padding-bottom: 2rem;
-  padding-inline: 4rem;
+  padding-inline: 4.3rem;
 }
 
 h2 {
